@@ -689,6 +689,12 @@ input[type="checkbox"] { display: inline; }
 .row .push-11     { left: 91.66667%; }
 .row .pull-11     { right: 91.66667%; }
 
+.row-portfolio{
+   width: 100%;
+   max-width: 100%;
+   
+}
+
 /* block grids
 --------------------------------------------------------------------- */
 .bgrid-sixths [class*="column"]   { width: 16.66667%; }

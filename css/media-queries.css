@@ -50,7 +50,7 @@
    /* About Section
    ------------------------------------------------------------------- */
    #about .profile-pic {
-      width: 114px;
+      width: 100%;
       height: 114px;
       margin-left: 12px;
    }
